@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Zaragoza Tricks</string>
+    <string name="title_activity_nie">nie</string>
+    <string name="de_inter_s">De Interés</string>
+    <string name="transporte">Transporte</string>
+    <string name="n_i_e">N.I.E.</string>
+    <string name="zaragoza_tricks">Zaragoza Tricks</string>
+    <string name="guia_de_viajero">Guia de viajero</string>
+    <string name="empadronarse">Empadronarse</string>
+    <string name="lugares">Lugares</string>
+    <string name="universidad">Universidad</string>
+    <string name="e_mail">e-mail</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombre">Nombre</string>
+    <string name="favor_completar_los_datos_a_continuaci_n">Favor completar los datos a continuación</string>
+    <string name="bienvenido_a">Bienvenido a</string>
+    <string name="todo">TODO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="documentaci_n_necesario_para_poder_empadronarse">Documentación necesario para poder empadronarse</string>
+    <string name="title_activity_maps_nie">Map</string>
+    <string name="_2_llevar_formulario_720_junto_a_la_tasa_de_impuesto">2. Llevar formulario 720 junto a la tasa de impuesto</string>
+    <string name="formulario_ex15">Formulario EX15</string>
+    <string name="_3_cita_por_internet_en_la_polic_a_para_la_toma_de_huellas">3.- Cita por Internet en la policía para la toma de huellas.</string>
+    <string name="_1_solicitar_cita_en_extranjer_a_para_obtener_resoluci_n_de_estancia">1. Solicitar cita en Extranjería para obtener Resolución de estancia</string>
+    <string name="hacer_cita">Hacer cita</string>
+    <string name="formulario_ex17">Formulario EX17</string>
+    <string name="llevar_la_siguiente_documentaci_n_n_copia_del_visado_n_matr_cula_de_la_universidad_si_es_estudiante_n_formulario_ex15_y_el_ex17_n_cita_previa_por_internet_o_presentarse_presencial_y_hacer_turno">Llevar la siguiente documentación:  - Copia del visado  - Matrícula de la universidad si es estudiante - Formulario EX15 y el EX17 - Cita previa por internet o presentarse presencial y hacer turno.</string>
+    <string name="el_d_a_de_la_cita_debe_llevar_n_copia_de_visado_n_copia_de_pasaporte_n_copia_de_la_resoluci_n_dada_en_extranjer_a_n_impuesto_y_formulario_720_n_fotograf_a_tipo_dni_con_fondo_blanco_n_certificado_de_empadronamiento">El día de la cita debe llevar:  - Copia de visado - Copia de pasaporte - Copia de la resolución dada en extranjería - Impuesto y formulario 720 - Fotografía tipo DNI con fondo blanco - Certificado de Empadronamiento</string>
+    <string name="nombre_y_apellido">Nombre y apellido</string>
+    <string name="registrar">Registrar</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="button">Button</string>
+
+    <string name="minimum_password">Contraseña muy debil</string>
+    <string name="auth_failed">Fallo la autentificacion</string>
+
+    <string-array name="Paises">
+        <item>Rep.Dom</item>
+        <item>Venezuela</item>
+        <item>España</item>
+    </string-array>
+
+
+</resources>

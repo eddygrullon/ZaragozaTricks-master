@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137023244590",
+    "firebase_url": "https://zaragoza-tricks.firebaseio.com",
+    "project_id": "zaragoza-tricks",
+    "storage_bucket": "zaragoza-tricks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137023244590:android:3718a0bdfaac7a33",
+        "android_client_info": {
+          "package_name": "es.usj.zaragozatricks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137023244590-0ukqpk45jo54e7nf4h9ed4q0nkj9l22q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oalbdij-JP6ifKcGLwlaYa2QrqptbTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
