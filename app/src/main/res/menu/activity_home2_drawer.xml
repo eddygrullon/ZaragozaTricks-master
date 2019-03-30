@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Inicio" />
+
+        <item
+            android:id="@+id/nav_transporte"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Transporte" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Empadronarse" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Número de extranjero" />
+
+        <item
+            android:id="@+id/nav_change_password"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Cambiar contraseña" />
+
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Salir" />
+    </group>
+
+
+
+</menu>

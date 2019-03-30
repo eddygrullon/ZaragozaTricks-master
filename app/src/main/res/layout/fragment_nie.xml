@@ -7,13 +7,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/activity_main"
-    tools:context=".fragments.NIEFragment">
+    tools:context=".Fragments.NIEFragment">
 
     <ScrollView
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent" >
+        app:layout_constraintRight_toRightOf="parent"
+        tools:ignore="MissingConstraints">
 
         <android.support.constraint.ConstraintLayout
             xmlns:android="http://schemas.android.com/apk/res/android"
@@ -134,7 +135,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="15dp"
                     android:layout_weight="1"
-                    android:background="@color/trans"
+                    android:background="#ddd"
                     android:drawableStart="@drawable/formex15"
                     android:text="@string/formulario_ex17"
                     android:drawablePadding="10dp"
@@ -151,7 +152,7 @@
                     android:foreground="?android:attr/selectableItemBackground"
                     android:layout_weight="1"
                     android:drawablePadding="10dp"
-                    android:background="@color/trans"
+                    android:background="#ddd"
                     android:drawableStart="@drawable/formex17"
                     android:text="@string/formulario_ex15"
                     android:textAlignment="viewStart"
@@ -165,7 +166,7 @@
                     android:layout_height="wrap_content"
                     android:foreground="?android:attr/selectableItemBackground"
                     android:layout_weight="1"
-                    android:background="@color/trans"
+                    android:background="#ddd"
                     android:drawableStart="@drawable/hacercita"
                     android:text="@string/hacer_cita"
                     android:textAlignment="viewStart"
